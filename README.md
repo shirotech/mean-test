@@ -10,7 +10,7 @@ Developer. Also to familiarise the tools and libraries we will be using.
 - MongoDB 3.4.x
 - Express.js 4.16.x
 - AngularJS 1.6.x OR 5.0.x
-- Node.js v8.x
+- Node.js v8.x (Use [.nvmrc](https://github.com/creationix/nvm) to manage)
 - ES6
 - Webpack
 
